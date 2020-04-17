@@ -2,9 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Test : MonoBehaviour
+public class AI : MonoBehaviour
 {
-
     // Start is called before the first frame update
     void Start()
     {
@@ -15,10 +14,5 @@ public class Test : MonoBehaviour
     void Update()
     {
         
-    }
-
-    public void MostrarAnuncio()
-    {
-        //
     }
 }

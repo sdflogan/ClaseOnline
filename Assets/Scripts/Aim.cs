@@ -2,23 +2,17 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Test : MonoBehaviour
+public class Aim : MonoBehaviour
 {
-
     // Start is called before the first frame update
     void Start()
     {
-        
+        // ASDFA SADF
     }
 
     // Update is called once per frame
     void Update()
     {
         
-    }
-
-    public void MostrarAnuncio()
-    {
-        //
     }
 }
